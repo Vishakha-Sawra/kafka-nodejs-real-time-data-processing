@@ -2,7 +2,7 @@
 
 ## >> Getting started
 
-![Lesson image](./kafka-nodejs.png)
+![Lesson image](/kafka-nodejs.png)
 
 To get started with this project, run
 
